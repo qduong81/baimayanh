@@ -1,0 +1,24 @@
+.mayanh1{
+    border: 2px solid rgb(156, 161, 185);
+    width: 300px;
+    box-shadow: 1px 1px 5px;
+}
+.anh1{
+    border: 1px solid rgb(255, 255, 255);
+    display: inline-block;
+    text-align: center;
+    flex-wrap: nowrap;
+    
+}
+.noidung{
+    margin-bottom: 10px;
+}
+
+.container{
+    width: 1000px;
+    border: 1px solid #fff;
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
